@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+scikit-learn
+nltk
+vaderSentiment
+matplotlib
+seaborn
+streamlit
+keplergl
+gensim
+bertopic
